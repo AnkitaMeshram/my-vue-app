@@ -1,0 +1,371 @@
+{"activePayments": [
+    {
+        "id": "5201686573",
+        "paymentMonth":[ 
+       { "month": "June",
+        "totalAmount":20000,
+        "payments" : [
+            {"name": "Rema",
+                "paidAmount": 5000,
+                "paymentDate": "23.06.2018"
+            },
+            {"name": "Kiwi",
+                "paidAmount": -5000,
+                "paymentDate": "23.06.2018"
+            },{"name": "Partial Payments 3",
+                "paidAmount": -5000,
+                "paymentDate": "23.06.2018"
+            },{"name": "Partial Payments 4",
+                "debitAmount": 5000,
+                "paymentDate": "23.06.2018"
+            },{"name": "Rema",
+                "paidAmount": -5000,
+                "paymentDate": "23.06.2018"
+            },
+            {"name": "Kiwi",
+                "paidAmount": -5000,
+                "paymentDate": "23.06.2018"
+            },{"name": "Partial Payments 3",
+                "paidAmount": -5000,
+                "paymentDate": "23.06.2018"
+            },{"name": "Partial Payments 4",
+                "paidAmount": -5000,
+                "paymentDate": "23.06.2018"
+            }
+            ]
+        },
+        {
+            "month": "May",
+            "totalAmount":26000,
+            "payments" : [
+                {"name": "Partial Payments 1",
+                    "debitAmount": 5000,
+                    "paymentDate": "23.06.2018"
+                },
+                {"name": "Partial Payments 1",
+                    "paidAmount": -5000,
+                    "paymentDate": "23.06.2018"
+                },{"name": "Partial Payments 1",
+                    "paidAmount": 5000,
+                    "paymentDate": "23.06.2018"
+                },{"name": "Partial Payments 1",
+                    "paidAmount": 5000,
+                    "paymentDate": "23.06.2018"
+                }
+                ]
+            },
+            {
+                "month": "April",
+                "totalAmount":10000,
+                "payments" : [
+                    {"name": "Partial Payments 1",
+                        "paidAmount": -5000,
+                        "paymentDate": "23.06.2018"
+                    },
+                    {"name": "Partial Payments 1",
+                        "paidAmount": -5000,
+                        "paymentDate": "23.06.2018"
+                    },{"name": "Partial Payments 1",
+                        "debitAmount": 5000,
+                        "paymentDate": "23.06.2018"
+                    },{"name": "Partial Payments 1",
+                        "paidAmount": -5000,
+                        "paymentDate": "23.06.2018"
+                    },{"name": "Partial Payments 1",
+                        "paidAmount": -5000,
+                        "paymentDate": "23.06.2018"
+                    },
+                    {"name": "Partial Payments 1",
+                        "paidAmount": -5000,
+                        "paymentDate": "23.06.2018"
+                    },{"name": "Partial Payments 1",
+                        "paidAmount": 5000,
+                        "paymentDate": "23.06.2018"
+                    },{"name": "Partial Payments 1",
+                        "paidAmount": 5000,
+                        "paymentDate": "23.06.2018"
+                    },{"name": "Partial Payments 1",
+                        "paidAmount": 5000,
+                        "paymentDate": "23.06.2018"
+                    },
+                    {"name": "Partial Payments 1",
+                        "debitAmount": 5000,
+                        "paymentDate": "23.06.2018"
+                    },{"name": "Partial Payments 1",
+                        "paidAmount": -5000,
+                        "paymentDate": "23.06.2018"
+                    },{"name": "Partial Payments 1",
+                        "paidAmount": -5000,
+                        "paymentDate": "23.06.2018"
+                    }
+                    ]
+                },
+                {
+                    "month": "March",
+                    "totalAmount":3400,
+                    "payments" : [
+                        {"name": "Partial Payments 1",
+                            "paidAmount": -5000,
+                            "paymentDate": "23.06.2018"
+                        },
+                        {"name": "Partial Payments 1",
+                            "paidAmount": -5000,
+                            "paymentDate": "23.06.2018"
+                        },{"name": "Partial Payments 1",
+                            "debitAmount": 5000,
+                            "paymentDate": "23.06.2018"
+                        },{"name": "Partial Payments 1",
+                            "paidAmount": 5000,
+                            "paymentDate": "23.06.2018"
+                        },{"name": "Partial Payments 1",
+                            "paidAmount": 5000,
+                            "paymentDate": "23.06.2018"
+                        },
+                        {"name": "Partial Payments 1",
+                            "paidAmount":-5000,
+                            "paymentDate": "23.06.2018"
+                        },{"name": "Partial Payments 1",
+                            "paidAmount": -5000,
+                            "paymentDate": "23.06.2018"
+                        },{"name": "Partial Payments 1",
+                            "paidAmount": -5000,
+                            "paymentDate": "23.06.2018"
+                        },{"name": "Partial Payments 1",
+                            "paidAmount": -5000,
+                            "paymentDate": "23.06.2018"
+                        },
+                        {"name": "Partial Payments 1",
+                            "paidAmount": 5000,
+                            "paymentDate": "23.06.2018"
+                        },{"name": "Partial Payments 1",
+                            "paidAmount": -5000,
+                            "paymentDate": "23.06.2018"
+                        },{"name": "Partial Payments 1",
+                            "debitAmount": 5000,
+                            "paymentDate": "23.06.2018"
+                        }
+                        ]
+                    }   
+        ]
+     }, {
+        "id": "5391411796",
+        "paymentMonth":[ 
+       { "month": "June",
+        "totalAmount":23000,
+        "payments" : [
+            {"name": "DNB",
+                "paidAmount": 5000,
+                "paymentDate": "23.06.2018"
+            },
+            {"name": "Partial Payments 1",
+                "paidAmount": -5000,
+                "paymentDate": "23.06.2018"
+            },{"name": "Partial Payments 1",
+                "paidAmount": -5000,
+                "paymentDate": "23.06.2018"
+            },{"name": "Partial Payments 1",
+                "paidAmount": -5000,
+                "paymentDate": "23.06.2018"
+            },{"name": "DNB",
+                "paidAmount": 5000,
+                "paymentDate": "23.06.2018"
+            },
+            {"name": "Partial Payments 1",
+                "paidAmount": -5000,
+                "paymentDate": "23.06.2018"
+            },{"name": "Partial Payments 1",
+                "debitAmount": 5000,
+                "paymentDate": "23.06.2018"
+            },{"name": "Partial Payments 1",
+                "paidAmount": 5000,
+                "paymentDate": "23.06.2018"
+            }
+            ]
+        },
+        {
+            "month": "May",
+            "totalAmount":87000,
+            "payments" : [
+                {"name": "Spare",
+                    "paidAmount": -5000,
+                    "paymentDate": "23.06.2018"
+                },
+                {"name": "Partial Payments 1",
+                    "paidAmount": 5000,
+                    "paymentDate": "23.06.2018"
+                },{"name": "Partial Payments 1",
+                    "paidAmount": 5000,
+                    "paymentDate": "23.06.2018"
+                },{"name": "Partial Payments 1",
+                    "paidAmount": -5000,
+                    "paymentDate": "23.06.2018"
+                }
+                ]
+            },
+            {
+                "month": "April",
+                "totalAmount":34756,
+                "payments" : [
+                    {"name": "Spare",
+                        "debitAmount": 5000,
+                        "paymentDate": "23.06.2018"
+                    },
+                    {"name": "Partial Payments 1",
+                        "paidAmount": -5000,
+                        "paymentDate": "23.06.2018"
+                    },{"name": "Partial Payments 1",
+                        "paidAmount": -5000,
+                        "paymentDate": "23.06.2018"
+                    },{"name": "Partial Payments 1",
+                        "paidAmount": -5000,
+                        "paymentDate": "23.06.2018"
+                    }
+                    ]
+                },
+                {
+                    "month": "March",
+                    "totalAmount":67000,
+                    "payments" : [
+                        {"name": "Spare",
+                            "paidAmount": -5000,
+                            "paymentDate": "23.06.2018"
+                        },
+                        {"name": "Partial Payments 1",
+                            "paidAmount": -5000,
+                            "paymentDate": "23.06.2018"
+                        },{"name": "Partial Payments 1",
+                            "debitAmount": 5000,
+                            "paymentDate": "23.06.2018"
+                        },{"name": "Partial Payments 1",
+                            "paidAmount": 5000,
+                            "paymentDate": "23.06.2018"
+                        }
+                        ]
+                    }, {
+                        "month": "February",
+                        "totalAmount":4200,
+                        "payments" : [
+                            {"name": "Spare",
+                                "paidAmount": 5000,
+                                "paymentDate": "23.06.2018"
+                            },
+                            {"name": "Partial Payments 1",
+                                "paidAmount": -5000,
+                                "paymentDate": "23.06.2018"
+                            },{"name": "Partial Payments 1",
+                                "debitAmount": 5000,
+                                "paymentDate": "23.06.2018"
+                            },{"name": "Partial Payments 1",
+                                "paidAmount": 5000,
+                                "paymentDate": "23.06.2018"
+                            }
+                            ]
+                        }    
+        ]
+    }, {
+        "id": "5402924715",
+        "paymentMonth":[ 
+       { "month": "June",
+        "totalAmount":1230,
+        "payments" : [
+            {"name": "TCS",
+                "paidAmount": -5000,
+                "paymentDate": "23.06.2018"
+            },
+            {"name": "Partial Payments 1",
+                "debitAmount": 5000,
+                "paymentDate": "23.06.2018"
+            },{"name": "Partial Payments 1",
+                "paidAmount": 5000,
+                "paymentDate": "23.06.2018"
+            },{"name": "Partial Payments 1",
+                "paidAmount": -5000,
+                "paymentDate": "23.06.2018"
+            }
+            ]
+        },
+        {
+            "month": "May",
+            "totalAmount":23400,
+            "payments" : [
+                {"name": "Infi",
+                    "paidAmount": -5000,
+                    "paymentDate": "23.06.2018"
+                },
+                {"name": "Partial Payments 1",
+                    "paidAmount": -5000,
+                    "paymentDate": "23.06.2018"
+                },{"name": "Partial Payments 1",
+                    "paidAmount": -5000,
+                    "paymentDate": "23.06.2018"
+                },{"name": "Partial Payments 1",
+                    "paidAmount": -5000,
+                    "paymentDate": "23.06.2018"
+                }
+                ]
+            },
+            {
+                "month": "April",
+                "totalAmount":12000,
+                "payments" : [
+                    {"name": "Infi",
+                        "paidAmount": -5000,
+                        "paymentDate": "23.06.2018"
+                    },
+                    {"name": "Partial Payments 1",
+                        "paidAmount": -5000,
+                        "paymentDate": "23.06.2018"
+                    },{"name": "Partial Payments 1",
+                        "paidAmount": -5000,
+                        "paymentDate": "23.06.2018"
+                    },{"name": "Partial Payments 1",
+                        "paidAmount": -5000,
+                        "paymentDate": "23.06.2018"
+                    }
+                    ]
+                },{
+                    "month": "March",
+                    "totalAmount":6600,
+                    "payments" : [
+                        {"name": "Infi",
+                            "paidAmount": -5000,
+                            "paymentDate": "23.06.2018"
+                        },
+                        {"name": "Partial Payments 1",
+                            "paidAmount": 5000,
+                            "paymentDate": "23.06.2018"
+                        },{"name": "Partial Payments 1",
+                            "paidAmount": -5000,
+                            "paymentDate": "23.06.2018"
+                        },{"name": "Partial Payments 1",
+                            "paidAmount": -5000,
+                            "paymentDate": "23.06.2018"
+                        }
+                        ]
+                    },
+                    {
+                        "month": "February",
+                        "totalAmount":1000,
+                        "payments" : [
+                            {"name": "Infi",
+                                "paidAmount": -5000,
+                                "paymentDate": "23.06.2018"
+                            },
+                            {"name": "Partial Payments 1",
+                                "paidAmount": -5000,
+                                "paymentDate": "23.06.2018"
+                            },{"name": "Partial Payments 1",
+                                "paidAmount": 5000,
+                                "paymentDate": "23.06.2018"
+                            },{"name": "Partial Payments 1",
+                                "paidAmount": 5000,
+                                "paymentDate": "23.06.2018"
+                            }
+                            ]
+                        } 
+        ]
+    }
+    
+    
+]
+}

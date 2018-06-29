@@ -1,0 +1,38 @@
+{
+    "totalLoanAmount": 612062.24,
+    "userAccountsInfo": [{
+        "accounttype":"Saving",
+        "accountnumber":"5201686573",
+        "accountBal":45293.24
+    },
+    {
+        "accounttype":"Current",
+        "accountnumber":"5391411796",
+        "accountBal":32604.24
+    }],
+    "historyCount": 6,
+    "activeCount": 2,
+    "activeLoans": [
+        {
+            "dueDate": "Yesterday",
+            "invoiceAmount": 78956,
+            "activeLoan":"Mortgage"
+        },
+        {
+            "dueDate": "25.08.2017",
+            "invoiceAmount": 78956,
+            "activeLoan":"Automobile"
+        }
+    ],
+    "activePayment": [{
+        "dueDate": "20.05.2017",
+        "invoiceAmount": 78956,
+        "investmentPlan":"AXA Mutual Fund"
+    },
+    {
+        "dueDate": "20.05.2017",
+        "invoiceAmount": 5645,
+        "investmentPlan":"LIC"
+    }
+    ]
+}
